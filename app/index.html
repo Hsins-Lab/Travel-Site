@@ -1,12 +1,15 @@
 <!DOCTYPE html>
+
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700' rel='stylesheet' type='text/css'>
   <title>Clear View Escapes</title>
   <meta name="keywords" content="Travel planning, travel bundles, travel escapes, affordable travel">
-  <meta name="description" content="Your clarity. One trip away. We create soul restoring journeys that inspire you to be you.">
-  <link href='temp/styles/styles.css' rel='stylesheet' type='text/css'>
+  <meta name="description" content="Your clarify. One trip away. We create soul restoring journeys that inspire you to be you.">
+
+  <link rel="stylesheet" href="temp/styles/styles.css">
+
 </head>
 <body>
   <header>
@@ -22,12 +25,14 @@
   </header>
 
   <div class="large-hero">
+    
     <picture>
       <source srcset="assets/images/hero--large.jpg 1920w, assets/images/hero--large-hi-dpi.jpg 3840w" media="(min-width: 1380px)">
       <source srcset="assets/images/hero--medium.jpg 1380w, assets/images/hero--medium-hi-dpi.jpg 2760w" media="(min-width: 990px)">
       <source srcset="assets/images/hero--small.jpg 990w, assets/images/hero--small-hi-dpi.jpg 1980w" media="(min-width: 640px)">
-      <img class="large-hero__image" srcset="assets/images/hero--smaller.jpg 640w, assets/images/hero--smaller-hi-dpi.jpg 1280w" alt="Coastal view of ocean and mountains">
+      <img srcset="assets/images/hero--smaller.jpg 640w, assets/images/hero--smaller-hi-dpi.jpg 1280w" alt="Coastal view of ocean and mountains" class="large-hero__image">
     </picture>
+
     <div class="large-hero__text-content">
       <div class="wrapper">
         <h1 class="large-hero__title">Your clarity.</h1>
@@ -42,9 +47,11 @@
     <div class="wrapper">
       <h2 class="headline headline--centered headline--light headline--b-margin-small">The first trip we planned <strong>was our own.</strong></h2>
       <h3 class="headline headline--centered headline--orange headline--small headline--narrow headline--light headline--b-margin-large">Ever since, we&rsquo;ve been working to make travel <strong>better for everyone.</strong></h3>
+
       <div class="wrapper wrapper--medium wrapper--b-margin">
-        <img sizes="(min-width: 970px) 976px, 100vw" srcset="assets/images/first-trip-res.jpg 565w, assets/images/first-trip.jpg 976w, assets/images/first-trip-hi-dpi.jpg 1950w" alt="Couple walking down a street.">
+        <img sizes="(min-width: 970px) 976px, 100vw" srcset="assets/images/first-trip-low-res.jpg 565w, assets/images/first-trip.jpg 976w, assets/images/first-trip-hi-dpi.jpg 1952w" alt="Couple walking down a street.">
       </div>
+
       <div class="row row--gutters">
         <div class="row__medium-4 row__medium-4--larger row__b-margin-until-medium">
           <picture>
@@ -68,9 +75,11 @@
   <div id="features" class="page-section page-section--blue">
     <div class="wrapper">
       <h2 class="section-title"><img class="section-title__icon" src="assets/images/icons/star.svg"> Our <strong>Features</strong></h2>
-    
+
       <div class="row row--gutters-large generic-content-container">
+        
         <div class="row__medium-6">
+
           <div class="feature-item">
             <img class="feature-item__icon" src="assets/images/icons/rain.svg">
             <h3 class="feature-item__title">We&rsquo;ll Watch the Weather</h3>
@@ -97,19 +106,20 @@
             <p>Everytime you book an escape with us we send you a survival kit with the finest materials. The kit will allow you to setup a tent, start a fire, scratch your own back and lower your taxes.</p>
           </div>
         </div>
+
       </div>
     </div>
   </div>
 
-  <div id="testimonials" class="page-section page-section--testimonials">
-    <div class="wrapper">
+  <div id="testimonials" class="page-section page-section--no-b-padding-until-large page-section--testimonials">
+    <div class="wrapper wrapper--no-padding-until-large">
       <h2 class="section-title section-title--blue"><img class="section-title__icon" src="assets/images/icons/comment.svg"> Real <strong>Testimonials</strong></h2>
 
-      <div class="row row--gutters">
-        <div class="row__medium-4">
+      <div class="row row--gutters row--equal-height-at-large row--gutters-small row--t-padding generic-content-container">
+        <div class="row__large-4">
           <div class="testimonial">
             <div class="testimonial__photo">
-              <img src="assets/images/testimonial-jane.jpg">
+              <img sizes="160px" srcset="assets/images/testimonial-jane.jpg 160w, assets/images/testimonial-jane-hi-dpi.jpg 320w" alt="Jane Doe">
             </div>
             <h3 class="testimonial__title">Jane Doe</h3>
             <h4 class="testimonial__subtitle">9 Time Escaper</h4>
@@ -117,20 +127,29 @@
           </div>
         </div>
 
-        <div class="row__medium-4">
-          <img src="assets/images/testimonial-john.jpg">
-          <h3>John Smith</h3>
-          <h3>4 Time Escaper</h3>
-          <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur.&rdquo;</p>
+        <div class="row__large-4">
+          <div class="testimonial">
+            <div class="testimonial__photo">
+              <img sizes="160px" srcset="assets/images/testimonial-john.jpg 160w, assets/images/testimonial-john-hi-dpi.jpg 320w" alt="John Smith">
+            </div>
+            <h3 class="testimonial__title">John Smith</h3>
+            <h4 class="testimonial__subtitle">4 Time Escaper</h4>
+            <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur.&rdquo;</p>
+          </div>
         </div>
-          <img src="assets/images/testimonial-cat.jpg">
-          <h3>Cat McKitty</h3>
-          <h3>6 Time Escaper</h3>
-          <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.&rdquo;</p>
-        <div class="row__medium-4">
+
+        <div class="row__large-4">
+          <div class="testimonial testimonial--last">
+            <div class="testimonial__photo">
+              <img sizes="160px" srcset="assets/images/testimonial-cat.jpg 160w, assets/images/testimonial-cat-hi-dpi.jpg 320w" alt="Cat McKitty">
+            </div>
+            <h3 class="testimonial__title">Cat McKitty</h3>
+            <h4 class="testimonial__subtitle">6 Time Escaper</h4>
+            <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.&rdquo;</p>
+          </div>
         </div>
       </div>
-    </div>
+    </div> 
   </div>
 
   <footer>
