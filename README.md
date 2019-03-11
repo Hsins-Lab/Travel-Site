@@ -1,11 +1,11 @@
-# Udemy Project: Travel Site 
-
-<div align="left">
+<div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
   <a href="https://github.com/Hsins/udemy_travel-site/blob/master/LICENSE" alt="License">
     <img src="https://img.shields.io/github/license/Hsins/udemy_travel-site.svg" />
   </a>
 </div>
+
+# Udemy Project: Travel Site
 
 This is a hands-on project from the Udemy course - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff.
   
@@ -68,7 +68,7 @@ $ npm install
 $ yarn install
 ```
 
-3. Install gulp globally and run the server and open a browser to visit [http://localhost:3000/](http://localhost:3000/).
+3. Install gulp globally, run the server and open a browser to visit [http://localhost:3000/](http://localhost:3000/).
 
 ```bash
 # Install gulp globally via npm
