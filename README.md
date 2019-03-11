@@ -1,6 +1,6 @@
 # Udemy Project: Travel Site 
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
   <a href="https://github.com/Hsins/udemy_travel-site/blob/master/LICENSE" alt="License">
     <img src="https://img.shields.io/github/license/Hsins/udemy_travel-site.svg" />
