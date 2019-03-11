@@ -1,3 +1,5 @@
+# Udemy Project: Travel Site 
+
 <div align="center">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
   <a href="https://github.com/Hsins/udemy_travel-site/blob/master/LICENSE" alt="License">
@@ -5,9 +7,7 @@
   </a>
 </div>
 
-# Udemy Project: Travel Site
-
-This A hands-on project from the Udemy course - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff.
+This is a hands-on project from the Udemy course - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff.
   
 # Demo
 
