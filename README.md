@@ -15,7 +15,7 @@ This is a hands-on project from the Udemy course - [Git a Web Developer Job: Mas
   <img src="demo/demo.gif" />
 </div>
 
-You can see a complete working example [here](https://hsins.github.io/udemy_travel-site/). Or you can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
+You can see a complete working example [here](https://hsins.github.io/udemy_Travel-Site/). Or you can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
 
 # Features
 
@@ -55,7 +55,7 @@ Follow the instructions below to set up the environment and run this project on 
 
 ```bash
 # Clone repository
-$ git clone https://github.com/Hsins/udemy_travel-site.git
+$ git clone https://github.com/Hsins/udemy_Travel-Site.git
 ```
 
 2. Install dependencies via NPM or Yarn
