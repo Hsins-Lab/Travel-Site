@@ -45,7 +45,7 @@ You can see a complete working example [here](https://hsins.github.io/udemy_Trav
 - [babel](https://babeljs.io/)
 - [browsersync](https://www.browsersync.io/)
 
-Check [`package.json`](https://github.com/Hsins/udemy_travel-site/blob/master/package.json) file for more information.
+Check [`package.json`](https://github.com/Hsins/udemy_Travel-Site/blob/master/package.json) file for more information.
 
 # Getting Started
 
@@ -93,8 +93,8 @@ $ gulp previewDist
 
 # More Information
 
-All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://github.com/Hsins/Udemy-Notes/tree/master/Git%20a%20Web%20Developer%20Job%20Mastering%20the%20Modern%20Workflow).
+All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://hsins.github.io/Udemy-Notes/Git%20a%20Web%20Developer%20Job%20Mastering%20the%20Modern%20Workflow/).
 
 # License
 
-Licensed under the MIT License.
+Licensed under the MIT License, Copyright © 2017-present Hsins.
